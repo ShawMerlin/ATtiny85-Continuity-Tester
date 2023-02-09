@@ -18,3 +18,10 @@ Not wanting to replace batteries often, I included a dual 18650 holder that has 
 The 18650 Batteries will literally self-discharge before being used up by this circuit.  <br />
 
 Project is completely open source with Kicad files to be provided.  This can be modified to your hears desire. <br />
+
+More Content Like this - www.facebook.com/GeekIslandGaming  <br />
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=97YFBJX4NXA8W)
+
+
+All Donations are reinvested into ideas and projects. Thank you for the support!!
