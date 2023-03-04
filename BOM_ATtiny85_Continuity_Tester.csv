@@ -1,0 +1,15 @@
+Ref,Val,Model,Mouser
+BATT1,18650 Battery Holder,1048P,https://www.mouser.com/ProductDetail/Keystone-Electronics/1048P?qs=9%252Bwcgl%2FJqd1h8Vx3IFpTxA%3D%3D
+C1,.1uF,FA26NP01H104JNU06,https://www.mouser.com/ProductDetail/TDK/FA26NP01H104JNU06?qs=UrFqKgNWc7RkUDHb07EBLQ%3D%3D
+D1,Blue LED,OVLLB8C7,https://www.mouser.com/ProductDetail/Optek-TT-Electronics/OVLLB8C7?qs=Dz6MBz%252BjnkGU%2F0vuidjXSQ%3D%3D
+D2,Red,OVLLR8C7,https://www.mouser.com/ProductDetail/Optek-TT-Electronics/OVLLR8C7?qs=SXXRyeEQT0mqxCGQ0ZD1Zg%3D%3D
+"D3,D4",Diodes,MBR150RLG,https://www.mouser.com/ProductDetail/onsemi/MBR150RLG?qs=3JMERSakebpMUdfDTQP0Kw%3D%3D
+J1,Red Vertical Probe,6037,https://www.mouser.com/ProductDetail/Keystone-Electronics/6037?qs=RfgnRl00reQ%2FAdfdXZ%2FHVQ%3D%3D
+J2,Black Vertical Probe,6038,https://www.mouser.com/ProductDetail/Keystone-Electronics/6038?qs=RfgnRl00reRe9nxm0w%252B40Q%3D%3D
+J3,Red Horizontal Probe, 105-0752-001,https://www.mouser.com/ProductDetail/Johnson-Cinch-Connectivity-Solutions/105-0752-001?qs=VqHsQWpF6un3jGphzYHn%2FA%3D%3D
+J4,Black Horizontal Probe, 105-0753-001,https://www.mouser.com/ProductDetail/Johnson-Cinch-Connectivity-Solutions/105-0753-001?qs=mXFFu1Tk4DXyqOx9v0lNQA%3D%3D
+J5,Switch,OS102011MS2QN1,https://www.mouser.com/ProductDetail/CK/OS102011MS2QN1?qs=WtljUlYws5RvQ1hEv876nQ%3D%3D
+LS1,Buzzer,CST-931RP-A,https://www.mouser.com/ProductDetail/CUI-Devices/CST-931RP-A?qs=WyjlAZoYn53DKTeYch4Tww%3D%3D
+"R1,R3",1K,CFR-25JR-52-1K,https://www.mouser.com/ProductDetail/YAGEO/CFR-25JR-52-1K?qs=FK4oyhsNhknmd5zXOZ4mTQ%3D%3D
+R2,51R,CFR-25JR-52-51R,https://www.mouser.com/ProductDetail/YAGEO/CFR-25JR-52-51R?qs=acBVhj9v9XXTvO3QTSPhHA%3D%3D
+U1,Microcontroller,ATTINY85-20PU,https://www.mouser.com/ProductDetail/Microchip-Technology-Atmel/ATTINY85-20PU?qs=8jWQYweyg6NCiiaOb5GI9Q%3D%3D
