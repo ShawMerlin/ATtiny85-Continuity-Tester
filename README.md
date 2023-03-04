@@ -6,7 +6,7 @@ False Alarms and the potential of damaging sensitive equipment have to be looked
 I found this ATtiny Continuity Tester schematic from https://github.com/technoblogy/continuity-tester  <br /> 
 Having an easy to assembly kit for DIYers was also considered in the creation of this PCB. <br />
 
-![image](https://user-images.githubusercontent.com/70423454/222931391-686703b1-aab6-438e-ad4b-f6fc4aa6ddb9.png)
+![image](https://user-images.githubusercontent.com/70423454/222931420-6b669efb-0cc0-4f86-bb11-4564dba35c12.png)
 
 ATtiny85 Program Code can be found here:  http://www.technoblogy.com/list?1ZNS <br />
 
