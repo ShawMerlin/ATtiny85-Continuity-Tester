@@ -24,4 +24,9 @@ More Content Like this - www.facebook.com/GeekIslandGaming  <br />
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=97YFBJX4NXA8W)
 
 
-All Donations are reinvested into ideas and projects. Thank you for the support!!
+All Donations are reinvested into ideas and projects. Thank you for the support!! <br /> <br />
+
+
+Here is a blown up picture of this board with things removed to make it easier to see what parts go where. <br />
+
+![image](https://user-images.githubusercontent.com/70423454/223324944-03718186-58fc-48d2-88e7-2b1b899f87d1.png)
